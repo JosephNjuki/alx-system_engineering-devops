@@ -1,2 +1,2 @@
 #!/bin/bash
-current_directory=$(pwd) echo "/tmp/correction/6545183308270907061316472857082264250025_5/205/436653/0x00-shell_basics"
+current_directory=$(pwd) echo "/root$(pwd)"
