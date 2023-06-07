@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls)"
+current_directory=$(ls) echo "$(ls)"
